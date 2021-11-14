@@ -28,7 +28,7 @@ function Footer() {
             {/*Column3*/}
             <div className ="col" style={{marginLeft:"65em" , marginTop:"-8em"}}>
                 <h4>Hızlı Bağlantılar</h4>
-                    <ul className="list-unstled">
+                    <ul className="list-unstyled">
                         <li>Besin Değer Tablosu</li>
                         <li>Mağazalarımız</li>
                         <li>Bizimle İletişime Geçin</li>
