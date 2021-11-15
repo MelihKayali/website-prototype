@@ -1,0 +1,25 @@
+.title-style{
+    margin-left: 16em;
+    font-size: 30px;
+    font-family: Arial;
+    color: rgb(59, 37, 37);
+    
+}
+
+.font-style{
+    margin-left: 3em;
+    font-size: 20px;
+    font-family: Arial;
+    color: rgb(238, 139, 106);
+    width: fit-content;
+    display: grid;
+}
+
+.img-style{
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 1em;
+    width:800px; 
+    height:450px;
+    display: table-column;
+}

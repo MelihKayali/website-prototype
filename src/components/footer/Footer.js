@@ -6,7 +6,7 @@ function Footer() {
             <div className="container">
                 <div className="row">
                     {/*Column1*/}
-                    <div className="col" style={{marginLeft:"5em" }}>
+                    <div className="col" style={{marginLeft:"5em"}}>
                         <h4>Sosyel Medya</h4>
                         <ul className="list-unstyled">
                             <li>MeloCofee</li>

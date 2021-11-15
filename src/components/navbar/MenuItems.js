@@ -1,24 +1,24 @@
 export const MenuItems = [
     {
-        title : 'Home',
+        title : 'Kahve',
         url : '#',
         cName : 'nav-links'
     },
 
     {
-        title : 'Services',
+        title : 'Kahvenin Yanında',
         url : '#',
         cName : 'nav-links'
     },
 
     {
-        title : 'Products',
+        title : 'Hakkımızda',
         url : '#',
         cName : 'nav-links'
     },
 
     {
-        title : 'Contacts Us',
+        title : 'Gizlilik',
         url : '#',
         cName : 'nav-links'
     }
