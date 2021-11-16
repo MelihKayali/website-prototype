@@ -9,7 +9,7 @@
 }
 
 .navbar-logo {
-    color: aliceblue;
+    color: rgb(238, 139, 106);
     justify-self: start;
     cursor: pointer;
 }
@@ -30,7 +30,7 @@
 }
 
 .nav-links{
-    color: white;
+    color: rgb(238, 139, 106);
     text-decoration: none;
     padding : 0.5rem 1rem;
 }

@@ -1,25 +1,19 @@
 .title-style{
-    margin-left: 16em;
+    margin-left: 25px;
     font-size: 30px;
     font-family: Arial;
-    color: rgb(59, 37, 37);
-    
+    color: rgb(59, 37, 37);   
 }
 
 .font-style{
-    margin-left: 3em;
+    margin-left: 25px;
     font-size: 20px;
     font-family: Arial;
     color: rgb(238, 139, 106);
-    width: fit-content;
-    display: grid;
 }
 
 .img-style{
     margin-right: auto;
-    margin-left: auto;
+    margin-left: 175px;
     margin-bottom: 1em;
-    width:800px; 
-    height:450px;
-    display: table-column;
 }

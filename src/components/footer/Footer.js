@@ -6,7 +6,7 @@ function Footer() {
             <div className="container">
                 <div className="row">
                     {/*Column1*/}
-                    <div className="col" style={{marginLeft:"5em"}}>
+                    <div className="col" style={{marginLeft:"8em"}}>
                         <h4>Sosyel Medya</h4>
                         <ul className="list-unstyled">
                             <li>MeloCofee</li>
@@ -16,7 +16,7 @@ function Footer() {
                     </div>
                 </div>
                 {/*Column2*/}
-                <div className="col" style={{marginLeft:"33em" , marginTop:"-8em" }}>
+                <div className="col" style={{marginLeft:"35em" , marginTop:"-7.5em" }}>
                     <h4>Misafir İlişkileri</h4>
                     <ul className="list-unstyled">
                         <li>Sıkça Sorulan Sorular</li>
@@ -26,7 +26,7 @@ function Footer() {
                 </div>
             </div>
             {/*Column3*/}
-            <div className ="col" style={{marginLeft:"65em" , marginTop:"-8em"}}>
+            <div className ="col" style={{marginLeft:"67em" , marginTop:"-7.5em"}}>
                 <h4>Hızlı Bağlantılar</h4>
                     <ul className="list-unstyled">
                         <li>Besin Değer Tablosu</li>
@@ -36,7 +36,7 @@ function Footer() {
             </div>
             <hr/>
             <div className="row">
-                <p className="col-sm" style={{marginLeft:"25em" , marginRight:"25em"}}>
+                <p className="col-sm" style={{marginLeft:"33em" , marginRight:"33em"}}>
                     &copy;{new Date().getFullYear()} Melo Cofee | All rights reserved | Terms of Service | Privacy
                 </p>
 
